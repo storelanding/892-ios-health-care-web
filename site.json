@@ -1,0 +1,35 @@
+{
+  "appName": "Health Care",
+  "tagline": "",
+  "description": "",
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "companyName": "DatLuyen",
+  "companyAddress": "",
+  "contactEmail": "jobertsonrule56425@gmail.com",
+  "dataCollected": "",
+  "thirdParties": [],
+  "noThirdParties": false,
+  "childrenDirected": false,
+  "hasSubscription": false,
+  "effectiveDate": "",
+  "accentColor": "",
+  "figmaUrl": "",
+  "extraNotes": "",
+  "storeUrl": null,
+  "packageName": null,
+  "store": "App Store",
+  "platform": "ios",
+  "siteUrl": null,
+  "hosting": null,
+  "images": [
+    { "file": "assets/img/40b68b0d-app-icon.png", "source": "pm-upload", "role": "app icon" },
+    { "file": "assets/img/6f16d1c9-screenshot-01.png", "source": "pm-upload", "role": "hero / Everyday health insights" },
+    { "file": "assets/img/6b5e024c-screenshot-02.png", "source": "pm-upload", "role": "My Health records" },
+    { "file": "assets/img/3b74f70a-screenshot-03.png", "source": "pm-upload", "role": "Personalized care guidance" },
+    { "file": "assets/img/dc9d13b0-screenshot-04.png", "source": "pm-upload", "role": "Family Hub" },
+    { "file": "assets/img/02c0a76e-screenshot-05.png", "source": "pm-upload", "role": "AI Health Assistant" }
+  ]
+}
