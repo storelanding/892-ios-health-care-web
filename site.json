@@ -1,0 +1,35 @@
+{
+  "appName": "Health Care",
+  "tagline": "",
+  "description": "",
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "companyName": "DatLuyen",
+  "companyAddress": "",
+  "contactEmail": "jobertsonrule56425@gmail.com",
+  "dataCollected": "",
+  "thirdParties": [],
+  "noThirdParties": false,
+  "childrenDirected": false,
+  "hasSubscription": false,
+  "effectiveDate": "",
+  "accentColor": "",
+  "figmaUrl": "",
+  "extraNotes": "Không đưa nọi dung này vào trang policies: You can change this choice at any time:\n\nGo to Settings → Privacy & Security → Tracking on your iPhone and turn off tracking for the App, or turn off “Allow Apps to Request to Track”.\nIf you do not allow tracking, you may still see ads, but they will not be personalised based on your activity in other apps and websites.",
+  "storeUrl": null,
+  "packageName": null,
+  "store": "App Store",
+  "platform": "ios",
+  "siteUrl": null,
+  "hosting": "vercel",
+  "images": [
+    { "file": "assets/img/app-icon.png", "source": "pm-upload", "role": "icon, favicon, Open Graph" },
+    { "file": "assets/img/screenshot-01.png", "source": "pm-upload", "feature": "Home / everyday health insights (hero)" },
+    { "file": "assets/img/screenshot-02.png", "source": "pm-upload", "feature": "My Health / health records" },
+    { "file": "assets/img/screenshot-03.png", "source": "pm-upload", "feature": "Personalized care guidance" },
+    { "file": "assets/img/screenshot-04.png", "source": "pm-upload", "feature": "Family Hub" },
+    { "file": "assets/img/screenshot-05.png", "source": "pm-upload", "feature": "AI Health Assistant" }
+  ]
+}
